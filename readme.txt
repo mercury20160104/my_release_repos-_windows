@@ -5,3 +5,6 @@
 
 # This is a project based on python version.
 # Supported Python Version : 2.7.11 and 3.5.2
+
+# Adding ocr sub modules.
+# Open Source 'Tesseract'
