@@ -8,3 +8,5 @@
 
 # Adding ocr sub modules.
 # Open Source 'Tesseract'
+
+# Adding super revolution modules.
