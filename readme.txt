@@ -10,3 +10,5 @@
 # Open Source 'Tesseract'
 
 # Adding super revolution modules.
+
+# Adding object classification modules.
